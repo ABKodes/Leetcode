@@ -1,18 +1,15 @@
 class Solution:
     def smallestNumber(self, num: int) -> int:
-        negative = False
-        if num < 0:
-            negative = True
-        temp = [int(digit) for digit in str(abs(num))]
+        negative = num < 0
+        digits = list(str(abs(num)))
         if negative:
-            temp.sort(reverse=True)
+            digits.sort(reverse=True)
         else:
-            temp.sort()
-            if 0 in temp:
-                for i in range(len(temp)):
-                    if temp[i] != 0:
-                        temp[0], temp[i] = temp[i], temp[0]
+            digits.sort()
+            if digits[0] == "0":
+                for i in range(1, len(digits)):
+                    if digits[i] != "0":
+                        digits[0], digits[i] = digits[i], digits[0]
                         break
-        temp = [str(digit) for digit in temp]
-        result = int("".join(temp))
-        return result * -1 if negative else result
+        result = int("".join(digits))
+        return -result if negative else result
