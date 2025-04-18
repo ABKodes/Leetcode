@@ -1,2 +1,2 @@
 # Leetcode
-This is the repository where I solve problems from LeetCode.
+This is the repository where I solve problems from LeetCode using leetsync.
