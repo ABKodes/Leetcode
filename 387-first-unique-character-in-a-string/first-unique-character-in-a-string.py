@@ -3,9 +3,7 @@ class Solution:
         charDict = {}
         for char in s:
             charDict[char] = charDict.get(char,0) + 1
-        for key,value in charDict.items():
-            if value == 1:
-                for i in range(len(s)):
-                    if s[i] == key:
-                        return i
+        for index, char in enumerate(s):
+            if charDict[char] == 1:
+                return index
         return -1
