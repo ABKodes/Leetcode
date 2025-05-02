@@ -1,14 +1,17 @@
 class Solution:
     def countGoodNumbers(self, n: int) -> int:
         MOD = 10 ** 9 + 7
-        def helper(base,exponent):
-            result = 1
-            while exponent > 0:
-                if exponent % 2 == 1:
-                    result = (result * base) % MOD
-                base = (base * base) % MOD
-                exponent //= 2
-            return result
-        even = (n+1)//2
-        odd = n//2
-        return (helper(5,even) * helper(4,odd)) % MOD
+        
+        def mod_pow(base, exponent):
+            if exponent == 0:
+                return 1
+            half = mod_pow(base, exponent // 2)
+            half = (half * half) % MOD
+            if exponent % 2 == 0:
+                return half
+            else:
+                return (half * base) % MOD
+
+        even = (n + 1) // 2
+        odd = n // 2
+        return (mod_pow(5, even) * mod_pow(4, odd)) % MOD
