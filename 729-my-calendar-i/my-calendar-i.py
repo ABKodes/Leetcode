@@ -4,14 +4,16 @@ class MyCalendar:
         self.events = []
 
     def book(self, startTime: int, endTime: int) -> bool:
-        for event in self.events:
-            start, end = event
-            if startTime < end and endTime > start:
-                return False
+        index = bisect.bisect_right(self.events, (startTime, endTime))
         
-        self.events.append([startTime, endTime])
-        return True
+        if index > 0 and self.events[index - 1][1] > startTime:
+            return False
+        
+        if index < len(self.events) and self.events[index][0] < endTime:
+            return False
 
+        self.events.insert(index, (startTime, endTime))
+        return True
 # Your MyCalendar object will be instantiated and called as such:
 # obj = MyCalendar()
 # param_1 = obj.book(startTime,endTime)
