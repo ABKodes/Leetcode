@@ -11,7 +11,7 @@ class Solution:
         while queue:
             levelSize = len(queue)
             previousValue = float('-inf') if level % 2 == 0 else float('inf')
-            for i in range(levelSize):
+            for _ in range(levelSize):
                 current = queue.popleft()
                 value = current.val
                 # Parity Check
