@@ -8,6 +8,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | ------- |
 | [0383-ransom-note](https://github.com/ABKodes/Leetcode/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/ABKodes/Leetcode/tree/master/0520-detect-capital) |
+| [0742-to-lower-case](https://github.com/ABKodes/Leetcode/tree/master/0742-to-lower-case) |
 ## Hash Table
 |  |
 | ------- |
