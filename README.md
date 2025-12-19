@@ -22,6 +22,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ABKodes/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/ABKodes/Leetcode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
 ## Sorting
@@ -40,4 +41,20 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ABKodes/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ABKodes/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ABKodes/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ABKodes/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
