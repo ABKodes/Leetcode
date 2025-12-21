@@ -62,4 +62,12 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ABKodes/Leetcode/tree/master/0134-gas-station) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ABKodes/Leetcode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ABKodes/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
