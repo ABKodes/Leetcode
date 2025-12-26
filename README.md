@@ -76,4 +76,12 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ABKodes/Leetcode/tree/master/0055-jump-game) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/ABKodes/Leetcode/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/ABKodes/Leetcode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
