@@ -22,6 +22,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ABKodes/Leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/ABKodes/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ABKodes/Leetcode/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/ABKodes/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -30,6 +31,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ABKodes/Leetcode/tree/master/0047-permutations-ii) |
 | [0414-third-maximum-number](https://github.com/ABKodes/Leetcode/tree/master/0414-third-maximum-number) |
 ## Depth-First Search
 |  |
@@ -89,4 +91,8 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ABKodes/Leetcode/tree/master/0029-divide-two-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/ABKodes/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
