@@ -6,6 +6,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/ABKodes/Leetcode/tree/master/0072-edit-distance) |
 | [0383-ransom-note](https://github.com/ABKodes/Leetcode/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/ABKodes/Leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/ABKodes/Leetcode/tree/master/0742-to-lower-case) |
@@ -81,6 +82,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ABKodes/Leetcode/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/ABKodes/Leetcode/tree/master/0072-edit-distance) |
 ## Linked List
 |  |
 | ------- |
