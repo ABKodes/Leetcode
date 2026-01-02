@@ -74,6 +74,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0029-divide-two-integers](https://github.com/ABKodes/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/ABKodes/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ABKodes/Leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/ABKodes/Leetcode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,8 +96,13 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ABKodes/Leetcode/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/ABKodes/Leetcode/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ABKodes/Leetcode/tree/master/0047-permutations-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ABKodes/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
