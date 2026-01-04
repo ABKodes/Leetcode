@@ -7,6 +7,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/ABKodes/Leetcode/tree/master/0072-edit-distance) |
+| [0273-integer-to-english-words](https://github.com/ABKodes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/ABKodes/Leetcode/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/ABKodes/Leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/ABKodes/Leetcode/tree/master/0742-to-lower-case) |
@@ -75,6 +76,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0066-plus-one](https://github.com/ABKodes/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ABKodes/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ABKodes/Leetcode/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/ABKodes/Leetcode/tree/master/0273-integer-to-english-words) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,4 +109,5 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ABKodes/Leetcode/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/ABKodes/Leetcode/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
