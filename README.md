@@ -39,6 +39,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ABKodes/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -110,4 +111,16 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | ------- |
 | [0231-power-of-two](https://github.com/ABKodes/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/ABKodes/Leetcode/tree/master/0273-integer-to-english-words) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/ABKodes/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/ABKodes/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/ABKodes/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
