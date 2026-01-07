@@ -15,6 +15,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ABKodes/Leetcode/tree/master/0036-valid-sudoku) |
 | [0383-ransom-note](https://github.com/ABKodes/Leetcode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/ABKodes/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Counting
@@ -24,6 +25,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ABKodes/Leetcode/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/ABKodes/Leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/ABKodes/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ABKodes/Leetcode/tree/master/0066-plus-one) |
@@ -48,6 +50,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ABKodes/Leetcode/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
 ## Queue
 |  |
