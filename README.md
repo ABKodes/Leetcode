@@ -26,6 +26,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ABKodes/Leetcode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/ABKodes/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ABKodes/Leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/ABKodes/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ABKodes/Leetcode/tree/master/0066-plus-one) |
@@ -109,6 +110,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ABKodes/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ABKodes/Leetcode/tree/master/0047-permutations-ii) |
 ## Recursion
 |  |
