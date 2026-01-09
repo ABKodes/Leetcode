@@ -43,10 +43,12 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ABKodes/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ABKodes/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ABKodes/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
@@ -121,6 +123,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ABKodes/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ABKodes/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -129,4 +132,5 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ABKodes/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ABKodes/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
