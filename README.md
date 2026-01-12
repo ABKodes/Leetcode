@@ -85,6 +85,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0069-sqrtx](https://github.com/ABKodes/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ABKodes/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/ABKodes/Leetcode/tree/master/0273-integer-to-english-words) |
+| [2288-count-operations-to-obtain-zero](https://github.com/ABKodes/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,4 +140,8 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ABKodes/Leetcode/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/ABKodes/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
