@@ -144,4 +144,12 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/ABKodes/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ABKodes/Leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ABKodes/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
