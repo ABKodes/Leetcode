@@ -104,6 +104,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0061-rotate-list](https://github.com/ABKodes/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ABKodes/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ABKodes/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0328-odd-even-linked-list](https://github.com/ABKodes/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
