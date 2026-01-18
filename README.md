@@ -10,6 +10,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0273-integer-to-english-words](https://github.com/ABKodes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/ABKodes/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ABKodes/Leetcode/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/ABKodes/Leetcode/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/ABKodes/Leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/ABKodes/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ABKodes/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -125,6 +126,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | ------- |
 | [0231-power-of-two](https://github.com/ABKodes/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/ABKodes/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/ABKodes/Leetcode/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
@@ -151,6 +153,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ABKodes/Leetcode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/ABKodes/Leetcode/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |
