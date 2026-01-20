@@ -70,6 +70,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ABKodes/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/ABKodes/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -102,6 +103,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ABKodes/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/ABKodes/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ABKodes/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ABKodes/Leetcode/tree/master/0092-reverse-linked-list-ii) |
@@ -144,6 +146,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ABKodes/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ABKodes/Leetcode/tree/master/0053-maximum-subarray) |
 ## Simulation
 |  |
@@ -158,4 +161,8 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ABKodes/Leetcode/tree/master/0155-min-stack) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ABKodes/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
