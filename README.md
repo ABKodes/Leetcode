@@ -35,6 +35,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0055-jump-game](https://github.com/ABKodes/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ABKodes/Leetcode/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/ABKodes/Leetcode/tree/master/0134-gas-station) |
+| [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/ABKodes/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/ABKodes/Leetcode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
@@ -48,16 +49,19 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ABKodes/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ABKodes/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ABKodes/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ABKodes/Leetcode/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
 ## Queue
 |  |
@@ -165,4 +169,8 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ABKodes/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
