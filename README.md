@@ -106,6 +106,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0055-jump-game](https://github.com/ABKodes/Leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/ABKodes/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/ABKodes/Leetcode/tree/master/0118-pascals-triangle) |
+| [1527-number-of-ways-to-paint-n-3-grid](https://github.com/ABKodes/Leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 ## Linked List
 |  |
 | ------- |
