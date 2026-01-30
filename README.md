@@ -40,6 +40,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0239-sliding-window-maximum](https://github.com/ABKodes/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/ABKodes/Leetcode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Sorting
 |  |
 | ------- |
@@ -52,18 +53,21 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0111-minimum-depth-of-binary-tree](https://github.com/ABKodes/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ABKodes/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ABKodes/Leetcode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Queue
 |  |
 | ------- |
@@ -99,6 +103,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ABKodes/Leetcode/tree/master/0069-sqrtx) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,4 +181,5 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
