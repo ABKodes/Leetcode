@@ -40,12 +40,14 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0239-sliding-window-maximum](https://github.com/ABKodes/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/ABKodes/Leetcode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
+| [1306-minimum-absolute-difference](https://github.com/ABKodes/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ABKodes/Leetcode/tree/master/0047-permutations-ii) |
 | [0414-third-maximum-number](https://github.com/ABKodes/Leetcode/tree/master/0414-third-maximum-number) |
+| [1306-minimum-absolute-difference](https://github.com/ABKodes/Leetcode/tree/master/1306-minimum-absolute-difference) |
 ## Depth-First Search
 |  |
 | ------- |
