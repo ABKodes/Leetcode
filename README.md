@@ -96,6 +96,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ABKodes/Leetcode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/ABKodes/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ABKodes/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ABKodes/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ABKodes/Leetcode/tree/master/0231-power-of-two) |
@@ -111,6 +112,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | ------- |
 | [0053-maximum-subarray](https://github.com/ABKodes/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ABKodes/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ABKodes/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/ABKodes/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/ABKodes/Leetcode/tree/master/0118-pascals-triangle) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/ABKodes/Leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
@@ -184,4 +186,8 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | ------- |
 | [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ABKodes/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
