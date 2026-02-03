@@ -38,6 +38,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0118-pascals-triangle](https://github.com/ABKodes/Leetcode/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/ABKodes/Leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABKodes/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/ABKodes/Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/ABKodes/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/ABKodes/Leetcode/tree/master/0414-third-maximum-number) |
@@ -109,6 +110,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ABKodes/Leetcode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/ABKodes/Leetcode/tree/master/0162-find-peak-element) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Dynamic Programming
 |  |
