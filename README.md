@@ -39,6 +39,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0134-gas-station](https://github.com/ABKodes/Leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABKodes/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ABKodes/Leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/ABKodes/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/ABKodes/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/ABKodes/Leetcode/tree/master/0414-third-maximum-number) |
@@ -104,6 +105,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0066-plus-one](https://github.com/ABKodes/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ABKodes/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABKodes/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/ABKodes/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ABKodes/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/ABKodes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ABKodes/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -136,6 +138,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | ------- |
 | [0061-rotate-list](https://github.com/ABKodes/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ABKodes/Leetcode/tree/master/0086-partition-list) |
+| [0189-rotate-array](https://github.com/ABKodes/Leetcode/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
