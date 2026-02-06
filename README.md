@@ -36,6 +36,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0055-jump-game](https://github.com/ABKodes/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ABKodes/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/ABKodes/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ABKodes/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/ABKodes/Leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABKodes/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ABKodes/Leetcode/tree/master/0162-find-peak-element) |
@@ -123,6 +124,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0062-unique-paths](https://github.com/ABKodes/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/ABKodes/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/ABKodes/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ABKodes/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/ABKodes/Leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 ## Linked List
 |  |
