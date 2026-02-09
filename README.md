@@ -41,6 +41,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABKodes/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ABKodes/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/ABKodes/Leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/ABKodes/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/ABKodes/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/ABKodes/Leetcode/tree/master/0414-third-maximum-number) |
@@ -125,6 +126,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0072-edit-distance](https://github.com/ABKodes/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/ABKodes/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABKodes/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/ABKodes/Leetcode/tree/master/0198-house-robber) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/ABKodes/Leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 ## Linked List
 |  |
