@@ -66,6 +66,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ABKodes/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ABKodes/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
@@ -165,6 +166,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ABKodes/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ABKodes/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ABKodes/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ABKodes/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
@@ -176,6 +178,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ABKodes/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ABKodes/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ABKodes/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ABKodes/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Divide and Conquer
