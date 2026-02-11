@@ -103,6 +103,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ABKodes/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/ABKodes/Leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/ABKodes/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ABKodes/Leetcode/tree/master/0066-plus-one) |
