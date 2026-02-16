@@ -6,6 +6,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ABKodes/Leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/ABKodes/Leetcode/tree/master/0072-edit-distance) |
 | [0273-integer-to-english-words](https://github.com/ABKodes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/ABKodes/Leetcode/tree/master/0290-word-pattern) |
@@ -105,6 +106,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | ------- |
 | [0007-reverse-integer](https://github.com/ABKodes/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/ABKodes/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/ABKodes/Leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/ABKodes/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ABKodes/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ABKodes/Leetcode/tree/master/0069-sqrtx) |
@@ -190,6 +192,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ABKodes/Leetcode/tree/master/0043-multiply-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ABKodes/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Stack
 |  |
