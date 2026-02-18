@@ -44,6 +44,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0189-rotate-array](https://github.com/ABKodes/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ABKodes/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/ABKodes/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ABKodes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/ABKodes/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/ABKodes/Leetcode/tree/master/0414-third-maximum-number) |
@@ -114,6 +115,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0069-sqrtx](https://github.com/ABKodes/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABKodes/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ABKodes/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ABKodes/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ABKodes/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/ABKodes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ABKodes/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -224,4 +226,12 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ABKodes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ABKodes/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ABKodes/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
