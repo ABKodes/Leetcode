@@ -49,6 +49,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0204-count-primes](https://github.com/ABKodes/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ABKodes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/ABKodes/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0303-range-sum-query-immutable](https://github.com/ABKodes/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/ABKodes/Leetcode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
 | [1306-minimum-absolute-difference](https://github.com/ABKodes/Leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -213,6 +214,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ABKodes/Leetcode/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/ABKodes/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Merge Sort
 |  |
 | ------- |
@@ -230,6 +232,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ABKodes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/ABKodes/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Enumeration
 |  |
 | ------- |
