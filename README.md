@@ -11,6 +11,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0179-largest-number](https://github.com/ABKodes/Leetcode/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/ABKodes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/ABKodes/Leetcode/tree/master/0290-word-pattern) |
+| [0306-additive-number](https://github.com/ABKodes/Leetcode/tree/master/0306-additive-number) |
 | [0383-ransom-note](https://github.com/ABKodes/Leetcode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/ABKodes/Leetcode/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/ABKodes/Leetcode/tree/master/0520-detect-capital) |
@@ -171,6 +172,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | ------- |
 | [0039-combination-sum](https://github.com/ABKodes/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ABKodes/Leetcode/tree/master/0047-permutations-ii) |
+| [0306-additive-number](https://github.com/ABKodes/Leetcode/tree/master/0306-additive-number) |
 ## Recursion
 |  |
 | ------- |
