@@ -53,6 +53,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0239-sliding-window-maximum](https://github.com/ABKodes/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/ABKodes/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/ABKodes/Leetcode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/ABKodes/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0447-number-of-boomerangs](https://github.com/ABKodes/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
 | [1306-minimum-absolute-difference](https://github.com/ABKodes/Leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -145,6 +146,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0118-pascals-triangle](https://github.com/ABKodes/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABKodes/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ABKodes/Leetcode/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/ABKodes/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/ABKodes/Leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 ## Linked List
 |  |
