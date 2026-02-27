@@ -169,6 +169,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | ------- |
 | [0029-divide-two-integers](https://github.com/ABKodes/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/ABKodes/Leetcode/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/ABKodes/Leetcode/tree/master/0461-hamming-distance) |
 ## Backtracking
 |  |
 | ------- |
