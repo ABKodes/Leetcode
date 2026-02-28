@@ -54,6 +54,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0303-range-sum-query-immutable](https://github.com/ABKodes/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/ABKodes/Leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/ABKodes/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0436-find-right-interval](https://github.com/ABKodes/Leetcode/tree/master/0436-find-right-interval) |
 | [0447-number-of-boomerangs](https://github.com/ABKodes/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
 | [1306-minimum-absolute-difference](https://github.com/ABKodes/Leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -64,6 +65,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0047-permutations-ii](https://github.com/ABKodes/Leetcode/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/ABKodes/Leetcode/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/ABKodes/Leetcode/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/ABKodes/Leetcode/tree/master/0436-find-right-interval) |
 | [1306-minimum-absolute-difference](https://github.com/ABKodes/Leetcode/tree/master/1306-minimum-absolute-difference) |
 ## Depth-First Search
 |  |
@@ -135,6 +137,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0069-sqrtx](https://github.com/ABKodes/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ABKodes/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ABKodes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0436-find-right-interval](https://github.com/ABKodes/Leetcode/tree/master/0436-find-right-interval) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Dynamic Programming
 |  |
