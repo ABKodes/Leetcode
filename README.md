@@ -57,6 +57,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0436-find-right-interval](https://github.com/ABKodes/Leetcode/tree/master/0436-find-right-interval) |
 | [0447-number-of-boomerangs](https://github.com/ABKodes/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
+| [0475-heaters](https://github.com/ABKodes/Leetcode/tree/master/0475-heaters) |
 | [1306-minimum-absolute-difference](https://github.com/ABKodes/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Sorting
@@ -66,6 +67,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0179-largest-number](https://github.com/ABKodes/Leetcode/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/ABKodes/Leetcode/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/ABKodes/Leetcode/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/ABKodes/Leetcode/tree/master/0475-heaters) |
 | [1306-minimum-absolute-difference](https://github.com/ABKodes/Leetcode/tree/master/1306-minimum-absolute-difference) |
 ## Depth-First Search
 |  |
@@ -138,6 +140,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0162-find-peak-element](https://github.com/ABKodes/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ABKodes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0436-find-right-interval](https://github.com/ABKodes/Leetcode/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/ABKodes/Leetcode/tree/master/0475-heaters) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Dynamic Programming
 |  |
@@ -167,6 +170,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0061-rotate-list](https://github.com/ABKodes/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ABKodes/Leetcode/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/ABKodes/Leetcode/tree/master/0189-rotate-array) |
+| [0475-heaters](https://github.com/ABKodes/Leetcode/tree/master/0475-heaters) |
 ## Bit Manipulation
 |  |
 | ------- |
