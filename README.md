@@ -56,6 +56,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0416-partition-equal-subset-sum](https://github.com/ABKodes/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/ABKodes/Leetcode/tree/master/0436-find-right-interval) |
 | [0447-number-of-boomerangs](https://github.com/ABKodes/Leetcode/tree/master/0447-number-of-boomerangs) |
+| [0456-132-pattern](https://github.com/ABKodes/Leetcode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/ABKodes/Leetcode/tree/master/0475-heaters) |
 | [1306-minimum-absolute-difference](https://github.com/ABKodes/Leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -140,6 +141,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0162-find-peak-element](https://github.com/ABKodes/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ABKodes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0436-find-right-interval](https://github.com/ABKodes/Leetcode/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/ABKodes/Leetcode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/ABKodes/Leetcode/tree/master/0475-heaters) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Dynamic Programming
@@ -225,6 +227,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABKodes/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ABKodes/Leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/ABKodes/Leetcode/tree/master/0394-decode-string) |
+| [0456-132-pattern](https://github.com/ABKodes/Leetcode/tree/master/0456-132-pattern) |
 ## Design
 |  |
 | ------- |
@@ -256,4 +259,12 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ABKodes/Leetcode/tree/master/0204-count-primes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ABKodes/Leetcode/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ABKodes/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
