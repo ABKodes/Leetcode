@@ -59,6 +59,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0456-132-pattern](https://github.com/ABKodes/Leetcode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/ABKodes/Leetcode/tree/master/0475-heaters) |
+| [0498-diagonal-traverse](https://github.com/ABKodes/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1306-minimum-absolute-difference](https://github.com/ABKodes/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Sorting
@@ -93,6 +94,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0036-valid-sudoku](https://github.com/ABKodes/Leetcode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/ABKodes/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Queue
 |  |
@@ -220,6 +222,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ABKodes/Leetcode/tree/master/0043-multiply-strings) |
+| [0498-diagonal-traverse](https://github.com/ABKodes/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ABKodes/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Stack
 |  |
