@@ -14,6 +14,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0306-additive-number](https://github.com/ABKodes/Leetcode/tree/master/0306-additive-number) |
 | [0383-ransom-note](https://github.com/ABKodes/Leetcode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/ABKodes/Leetcode/tree/master/0394-decode-string) |
+| [0500-keyboard-row](https://github.com/ABKodes/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/ABKodes/Leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/ABKodes/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ABKodes/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -25,6 +26,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0290-word-pattern](https://github.com/ABKodes/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ABKodes/Leetcode/tree/master/0383-ransom-note) |
 | [0447-number-of-boomerangs](https://github.com/ABKodes/Leetcode/tree/master/0447-number-of-boomerangs) |
+| [0500-keyboard-row](https://github.com/ABKodes/Leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/ABKodes/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Counting
 |  |
@@ -60,6 +62,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/ABKodes/Leetcode/tree/master/0475-heaters) |
 | [0498-diagonal-traverse](https://github.com/ABKodes/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/ABKodes/Leetcode/tree/master/0500-keyboard-row) |
 | [1306-minimum-absolute-difference](https://github.com/ABKodes/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Sorting
