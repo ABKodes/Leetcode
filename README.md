@@ -82,6 +82,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ABKodes/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/ABKodes/Leetcode/tree/master/0547-number-of-provinces) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
@@ -90,6 +91,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0111-minimum-depth-of-binary-tree](https://github.com/ABKodes/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ABKodes/Leetcode/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/ABKodes/Leetcode/tree/master/0547-number-of-provinces) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Matrix
 |  |
@@ -247,6 +249,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ABKodes/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ABKodes/Leetcode/tree/master/0547-number-of-provinces) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/ABKodes/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Combinatorics
 |  |
@@ -273,4 +276,8 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/ABKodes/Leetcode/tree/master/0456-132-pattern) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ABKodes/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
