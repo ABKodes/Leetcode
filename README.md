@@ -35,6 +35,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ABKodes/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ABKodes/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ABKodes/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ABKodes/Leetcode/tree/master/0047-permutations-ii) |
@@ -146,6 +147,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ABKodes/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/ABKodes/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ABKodes/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ABKodes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
