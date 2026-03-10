@@ -179,6 +179,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0086-partition-list](https://github.com/ABKodes/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ABKodes/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ABKodes/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0206-reverse-linked-list](https://github.com/ABKodes/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ABKodes/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
@@ -203,6 +204,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ABKodes/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/ABKodes/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ABKodes/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/ABKodes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/ABKodes/Leetcode/tree/master/0394-decode-string) |
