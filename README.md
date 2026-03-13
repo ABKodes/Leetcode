@@ -25,6 +25,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0013-roman-to-integer](https://github.com/ABKodes/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/ABKodes/Leetcode/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/ABKodes/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/ABKodes/Leetcode/tree/master/0146-lru-cache) |
 | [0290-word-pattern](https://github.com/ABKodes/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ABKodes/Leetcode/tree/master/0383-ransom-note) |
 | [0447-number-of-boomerangs](https://github.com/ABKodes/Leetcode/tree/master/0447-number-of-boomerangs) |
@@ -183,6 +184,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0092-reverse-linked-list-ii](https://github.com/ABKodes/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ABKodes/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/ABKodes/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/ABKodes/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ABKodes/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ABKodes/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
@@ -256,6 +258,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ABKodes/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ABKodes/Leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/ABKodes/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Merge Sort
@@ -297,4 +300,8 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ABKodes/Leetcode/tree/master/0547-number-of-provinces) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ABKodes/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
