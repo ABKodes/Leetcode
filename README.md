@@ -38,6 +38,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ABKodes/Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ABKodes/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ABKodes/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ABKodes/Leetcode/tree/master/0039-combination-sum) |
@@ -130,6 +131,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ABKodes/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ABKodes/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ABKodes/Leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/ABKodes/Leetcode/tree/master/0179-largest-number) |
@@ -193,6 +195,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ABKodes/Leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/ABKodes/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ABKodes/Leetcode/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/ABKodes/Leetcode/tree/master/0189-rotate-array) |
