@@ -6,6 +6,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ABKodes/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ABKodes/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/ABKodes/Leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/ABKodes/Leetcode/tree/master/0072-edit-distance) |
@@ -22,6 +23,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ABKodes/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ABKodes/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/ABKodes/Leetcode/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/ABKodes/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -141,6 +143,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0002-add-two-numbers](https://github.com/ABKodes/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ABKodes/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ABKodes/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/ABKodes/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ABKodes/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ABKodes/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ABKodes/Leetcode/tree/master/0043-multiply-strings) |
