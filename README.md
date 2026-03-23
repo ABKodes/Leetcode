@@ -10,6 +10,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0013-roman-to-integer](https://github.com/ABKodes/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/ABKodes/Leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/ABKodes/Leetcode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/ABKodes/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/ABKodes/Leetcode/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/ABKodes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/ABKodes/Leetcode/tree/master/0290-word-pattern) |
@@ -26,6 +27,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0012-integer-to-roman](https://github.com/ABKodes/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ABKodes/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/ABKodes/Leetcode/tree/master/0036-valid-sudoku) |
+| [0076-minimum-window-substring](https://github.com/ABKodes/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/ABKodes/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/ABKodes/Leetcode/tree/master/0146-lru-cache) |
 | [0290-word-pattern](https://github.com/ABKodes/Leetcode/tree/master/0290-word-pattern) |
@@ -119,6 +121,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ABKodes/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ABKodes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/ABKodes/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
