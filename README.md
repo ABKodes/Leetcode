@@ -48,6 +48,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0036-valid-sudoku](https://github.com/ABKodes/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ABKodes/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ABKodes/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/ABKodes/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ABKodes/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ABKodes/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ABKodes/Leetcode/tree/master/0066-plus-one) |
@@ -219,6 +220,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | ------- |
 | [0039-combination-sum](https://github.com/ABKodes/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ABKodes/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/ABKodes/Leetcode/tree/master/0051-n-queens) |
 | [0306-additive-number](https://github.com/ABKodes/Leetcode/tree/master/0306-additive-number) |
 ## Recursion
 |  |
