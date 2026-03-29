@@ -30,6 +30,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0076-minimum-window-substring](https://github.com/ABKodes/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/ABKodes/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/ABKodes/Leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/ABKodes/Leetcode/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/ABKodes/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ABKodes/Leetcode/tree/master/0383-ransom-note) |
 | [0447-number-of-boomerangs](https://github.com/ABKodes/Leetcode/tree/master/0447-number-of-boomerangs) |
@@ -38,6 +39,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ABKodes/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ABKodes/Leetcode/tree/master/0383-ransom-note) |
 ## Array
 |  |
@@ -57,6 +59,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | [0134-gas-station](https://github.com/ABKodes/Leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABKodes/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ABKodes/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/ABKodes/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ABKodes/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ABKodes/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ABKodes/Leetcode/tree/master/0198-house-robber) |
@@ -80,6 +83,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ABKodes/Leetcode/tree/master/0047-permutations-ii) |
+| [0169-majority-element](https://github.com/ABKodes/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ABKodes/Leetcode/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/ABKodes/Leetcode/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/ABKodes/Leetcode/tree/master/0436-find-right-interval) |
@@ -259,6 +263,7 @@ This is the repository where I solve problems from LeetCode using leetsync.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ABKodes/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ABKodes/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ABKodes/Leetcode/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
